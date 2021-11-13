@@ -1,0 +1,30 @@
+/* h1 {
+  
+  color: red;
+  font-size: 2.5rem;
+  background-color: aqua;
+}
+
+h2 {
+  color: black;
+  background-color: burlywood;
+}
+
+p {
+  
+  color: blue;
+  font-style: italic;
+  font-size: 1rem;
+  background-color: greenyellow;
+} */
+
+h1 ~ a {
+  color: red;
+  background: yellow;
+}
+/*
+p,
+a {
+  color: blue;
+  background: greenyellow;
+} */
